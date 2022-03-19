@@ -6,6 +6,10 @@ This is a web application for La Pizza which is a pizza selling venture, that sh
 
 Grace Were
 
+# Live Page
+
+https://gracewere.github.io/Pizza-app/
+
 # Technologies used
 
 HTML
