@@ -141,6 +141,21 @@ nav .navbar {
 #variety {
   padding-top: 30px;
 }
+@media (max-width: 768px) {
+  .carousel-inner .carousel-item > div {
+    display: none;
+  }
+  .carousel-inner .carousel-item > div:first-child {
+    display: block;
+  }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
 .order {
   background-attachment: fixed;
   background-image: url(../images/bg2.jpg);
