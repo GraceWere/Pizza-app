@@ -140,6 +140,7 @@ nav .navbar {
 }
 #variety {
   padding-top: 30px;
+  text-align: center;
 }
 @media (max-width: 768px) {
   .carousel-inner .carousel-item > div {
